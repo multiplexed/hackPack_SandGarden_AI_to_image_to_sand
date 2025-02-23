@@ -1,4 +1,5 @@
 /*
+  * Receives points from serial communication to move the robot
   ************************************************************************************
   * MIT License
   *
